@@ -26,4 +26,5 @@
   
   # FLUXOGRAMA
   
+  ![vetor A e B](https://user-images.githubusercontent.com/104398779/173206536-b3b14d8e-4123-4bc1-8e7f-bdc2e7c743af.png)
   

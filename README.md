@@ -26,5 +26,5 @@
   
   # FLUXOGRAMA
   
-  ![vetor A e B](https://user-images.githubusercontent.com/104398779/173206536-b3b14d8e-4123-4bc1-8e7f-bdc2e7c743af.png)
+  ![vetor A e B](https://github.com/rperassi/Vetores-A-e-B/blob/03d06b77ec13edd0705aaf97195e97d98883b728/Fluxograma%20Vetor%20A%20e%20B.png)
   
